@@ -2,14 +2,12 @@
 
 ## Regression ( Linear, Lasso, Ridge, Multivarient )
 
-Python dilinde Spyder ve Jupyter kullanılmıştır.
+Spyder and Jupyter are used in Python language.
 
-Spyder
-1- verial.py çalıştırılır. Sahibinden.com'dan satılık ev fiyatlarının öznitelikleri çekilir.
-2- satır.py ile çekilen metin satırlara oturtulur. Daha iyi analiz yapabilmek için.
-3- replace.py ile hazırlanan veri üzerinde stopwords ,word_tokenize , PorterStemmer işlemleri yapılır.
+Spyder 1- verial.py is run. The attributes of the house prices for sale are drawn from Sahibinden.com. 
+2- The text drawn with line.py is fitted to the lines. For better analysis. 
+3- Stopwords, word_tokenize, and PorterStemmer operations are performed on the data prepared with replace.py.
 
-Jupyter --> veri işleme adımlarının daha anlaşılır olması için projenin devamı burdan sağlanmıştır.
-4- .ipynb uzantılır dosyalarla linear , lasso ,xgboost, ridge ve multivarient regresyonları yapılmıştır.
-5- prediction.ipynb  ile yapılan çalışmalar sonunda uygulamanın tahmin edilmesi sağlanmıştır.
-
+The continuation of the project is provided here for Jupyter -> data processing steps to be more understandable. 
+4- Linear, lasso, xgboost, ridge and multivarient regressions were made with .ipynb extension files. 
+5- At the end of the studies with prediction.ipynb, the application was predicted.
