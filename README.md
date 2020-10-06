@@ -1,4 +1,6 @@
-# house-prediction
+# House-Price-Prediction with Regression Models
+
+## Regression ( Linear, Lasso, Ridge, Multivarient )
 
 Python dilinde Spyder ve Jupyter kullanılmıştır.
 
